@@ -47,3 +47,9 @@ If you want to take this system further, here are a few ideas for features you c
 ## 🛠 Unity Version
 
 Tested in Unity6+ (should work without any problems in newer versions)
+
+---
+
+## 📜 License
+
+MIT
