@@ -9,7 +9,7 @@ A lightweight, flexible, and reusable Health System for Unity (2D & 3D). This sc
 - **Plug & Play:** Works for players, enemies, and breakable objects.
 - **Unity Events:** Trigger animations, particles, or UI bars without extra coding.
 - **Encapsulated Logic:** Clean properties for IsDead and CurrentHealth.
-- **Flexible:** Works with any damage source (spikes, bullets, falling).
+- **Flexible:** Works with any damage source (spikes, bullets, etc).
 
 ---
 
