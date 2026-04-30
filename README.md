@@ -24,7 +24,7 @@ A lightweight, flexible, and reusable Health & Armor System for Unity (2D & 3D).
    - *Example:* Drag your HealthBar UI into "onHealthChanged" to update the slider.
 4. To deal damage from another script, simply call:
 
-"""csharp
+"""
 target.GetComponent<Health>().TakeDamage(15f);
 """
 
