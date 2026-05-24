@@ -11,7 +11,7 @@ A lightweight, flexible, and reusable Health, Armor, and Regeneration System for
 - **Auto-Regeneration:** Optional built-in health regeneration. Configurable delay, tick rate, and heal amounts allow you to easily create regenerating shields or slow out-of-combat healing.
 - **Unity Events:** Trigger animations, particles, or UI bars without extra coding. Includes a specialized "onDamageBlocked" event for when armor absorbs a hit.
 - **Encapsulated Logic:** Clean properties for "IsDead" and "CurrentHealth".
-- **Flexible:** Works with any damage source (spikes, bullets, etc).
+- **Flexible:** Works with any damage source (spikes, bullets, etc...).
 
 ---
 
