@@ -1,6 +1,6 @@
 # Unity Unity-health-dmg
 
-A lightweight, flexible, and reusable Health, Armor, and Regeneration System for Unity (2D & 3D). This script uses **UnityEvents**, making it easy to connect damage, blocking, and death logic to your UI, VFX, and SFX directly in the Inspector.
+A lightweight, flexible, and reusable Health, Armor, and Regeneration System for Unity (2D & 3D). This script uses **UnityEvents**, making it easy to connect taking damage, blocking, and death logic to your UI, VFX, and SFX directly in the Inspector.
 
 ---
 
